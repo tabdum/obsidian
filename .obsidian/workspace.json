@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Програмирование/Untitled.md",
+                "file": "00 Програмирование/python/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Програмирование/Untitled.md",
+                "file": "00 Програмирование/python/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Програмирование/Untitled.md",
+                "file": "00 Програмирование/python/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Програмирование/Untitled.md"
+                "file": "00 Програмирование/python/Untitled.md"
               }
             }
           },
@@ -163,15 +163,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c3a5d2e6c642b930",
+  "active": "c3675abeef6850ba",
   "lastOpenFiles": [
-    "00 Програмирование/Untitled.md",
+    "00 Програмирование/python/Untitled.md",
     "git/git - работа с удаленным репазиторием.md",
     "git/git - работа с локальным репазиторием.md",
     "git/git - комадная работа.md",
     "git/git установка  настройка.md",
-    "linux",
-    "python",
+    "00 Програмирование/linux",
+    "00 Програмирование/python",
     "git",
     "00 Програмирование",
     "Untitled 2",
