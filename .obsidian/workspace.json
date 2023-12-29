@@ -57,14 +57,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Програмирование/python/основы/Строковый тип данных.md",
+                "file": "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "7b6f227511a7abcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e37d72a644b98f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Програмирование/python/работа с файлами/csv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "256dd7a5673f7fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Програмирование/python/работа с файлами/json.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c8df148aa5ce36f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Програмирование/python/работа с файлами/xml.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6546e4c0de694870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Програмирование/linux/информация о системе.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -138,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Програмирование/python/основы/Строковый тип данных.md",
+                "file": "00 Програмирование/linux/информация о системе.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Програмирование/python/основы/Строковый тип данных.md",
+                "file": "00 Програмирование/linux/информация о системе.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Програмирование/python/основы/Строковый тип данных.md"
+                "file": "00 Програмирование/linux/информация о системе.md"
               }
             }
           },
@@ -208,8 +268,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8c2ac224afccc118",
+  "active": "c3675abeef6850ba",
   "lastOpenFiles": [
+    "00 Програмирование/linux/информация о системе.md",
+    "00 Програмирование/python/работа с файлами/json.md",
+    "00 Програмирование/python/работа с файлами/xml.md",
+    "00 Програмирование/python/работа с файлами/csv.md",
     "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md",
     "00 Програмирование/python/основы/Строковый тип данных.md",
     "00 Програмирование/python/работа с файлами/список файлов в директории.md",
