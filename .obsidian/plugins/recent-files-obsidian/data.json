@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "СSV",
+      "path": "00 Програмирование/python/работа с файлами/СSV.md"
+    },
+    {
+      "basename": "Работа с несколькими файлами",
+      "path": "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md"
+    },
+    {
+      "basename": "code",
+      "path": "исходники/code.png"
+    },
+    {
+      "basename": "code1",
+      "path": "исходники/code1.png"
+    },
+    {
+      "basename": "code6",
+      "path": "исходники/code6.png"
+    },
+    {
+      "basename": "code3",
+      "path": "исходники/code3.png"
+    },
+    {
+      "basename": "code 1",
+      "path": "исходники/code 1.png"
+    },
+    {
+      "basename": "json",
+      "path": "00 Програмирование/python/работа с файлами/json.md"
+    },
+    {
+      "basename": "git установка и настройка",
+      "path": "00 Програмирование/git/git установка и настройка.md"
+    },
+    {
       "basename": "vs code",
       "path": "00 Програмирование/hot key/vs code.md"
     },
@@ -13,24 +49,8 @@
       "path": "00 Програмирование/python/работа с файлами/xml.md"
     },
     {
-      "basename": "json",
-      "path": "00 Програмирование/python/работа с файлами/json.md"
-    },
-    {
-      "basename": "csv",
-      "path": "00 Програмирование/python/работа с файлами/csv.md"
-    },
-    {
-      "basename": "Работа с несколькими файлами",
-      "path": "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md"
-    },
-    {
       "basename": "Строковый тип данных",
       "path": "00 Програмирование/python/основы/Строковый тип данных.md"
-    },
-    {
-      "basename": "git установка и настройка",
-      "path": "00 Програмирование/git/git установка и настройка.md"
     }
   ],
   "omittedPaths": [],

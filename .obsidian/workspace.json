@@ -8,135 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbd0de78ea470d2e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d21d1f784d160179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Програмирование/git/git установка и настройка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adbfbfa7b866f7e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ac3810b221967a1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8c2ac224afccc118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7b6f227511a7abcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e37d72a644b98f07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Програмирование/python/работа с файлами/csv.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "256dd7a5673f7fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Програмирование/python/работа с файлами/json.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c8df148aa5ce36f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Програмирование/python/работа с файлами/xml.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6546e4c0de694870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Програмирование/linux/информация о системе.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a6fe2cf143c9a3aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Програмирование/hot key/vs code.md",
-                "mode": "preview",
+                "file": "00 Програмирование/python/работа с файлами/СSV.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
+      },
+      {
+        "id": "6bda7c0fdf6f44bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbd0de78ea470d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Програмирование/python/работа с файлами/СSV.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Програмирование/hot key/vs code.md",
+                "file": "00 Програмирование/python/работа с файлами/СSV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Програмирование/hot key/vs code.md",
+                "file": "00 Програмирование/python/работа с файлами/СSV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,12 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Програмирование/hot key/vs code.md"
+                "file": "00 Програмирование/python/работа с файлами/СSV.md"
               }
             }
           },
           {
-            "id": "fb5e6f432fdff232",
+            "id": "c1414480c5fb97b4",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -282,17 +183,27 @@
   },
   "active": "a6fe2cf143c9a3aa",
   "lastOpenFiles": [
+    "code8.png",
+    "исходники/code7.png",
+    "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md",
+    "00 Програмирование/python/работа с файлами/СSV.md",
+    "исходники/code.png",
+    "исходники/code1.png",
+    "исходники",
+    "исходники/code6.png",
+    "исходники/code3.png",
+    "исходники/code 1.png",
+    "00 Програмирование/python/работа с файлами/json.md",
+    "00 Програмирование/git/git установка и настройка.md",
+    "исходники/code5.png",
+    "исходники/code2.png",
     "00 Програмирование/hot key/vs code.md",
     "00 Програмирование/hot key",
     "00 Програмирование/linux/информация о системе.md",
-    "00 Програмирование/python/работа с файлами/json.md",
     "00 Програмирование/python/работа с файлами/xml.md",
-    "00 Програмирование/python/работа с файлами/csv.md",
-    "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md",
     "00 Програмирование/python/основы/Строковый тип данных.md",
     "00 Програмирование/python/работа с файлами/список файлов в директории.md",
     "00 Програмирование/python/работа с файлами",
-    "00 Програмирование/git/git установка и настройка.md",
     "00 Програмирование/python/основы",
     "00 Програмирование/git",
     "git/git - работа с удаленным репазиторием.md",
@@ -303,7 +214,6 @@
     "00 Програмирование/python",
     "git",
     "00 Програмирование",
-    "Untitled 2",
-    "Untitled 1"
+    "Untitled 2"
   ]
 }
