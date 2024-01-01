@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Time",
+      "path": "00 Програмирование/python/библиотеки/Time.md"
+    },
+    {
+      "basename": "xml",
+      "path": "00 Програмирование/python/работа с файлами/xml.md"
+    },
+    {
       "basename": "СSV",
       "path": "00 Програмирование/python/работа с файлами/СSV.md"
     },
     {
+      "basename": "YAML",
+      "path": "00 Програмирование/python/работа с файлами/YAML.md"
+    },
+    {
+      "basename": "Screenshot from 2023-12-30 15-00-08",
+      "path": "исходники/Screenshot from 2023-12-30 15-00-08.png"
+    },
+    {
       "basename": "Работа с несколькими файлами",
       "path": "00 Програмирование/python/работа с файлами/Работа с несколькими файлами.md"
+    },
+    {
+      "basename": "json",
+      "path": "00 Програмирование/python/работа с файлами/json.md"
     },
     {
       "basename": "code",
@@ -29,10 +49,6 @@
       "path": "исходники/code 1.png"
     },
     {
-      "basename": "json",
-      "path": "00 Програмирование/python/работа с файлами/json.md"
-    },
-    {
       "basename": "git установка и настройка",
       "path": "00 Програмирование/git/git установка и настройка.md"
     },
@@ -43,10 +59,6 @@
     {
       "basename": "информация о системе",
       "path": "00 Програмирование/linux/информация о системе.md"
-    },
-    {
-      "basename": "xml",
-      "path": "00 Програмирование/python/работа с файлами/xml.md"
     },
     {
       "basename": "Строковый тип данных",
